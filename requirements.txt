@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+ollama
+pydantic
+pytest
+httpx
